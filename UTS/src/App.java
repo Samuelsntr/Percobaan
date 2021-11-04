@@ -14,5 +14,6 @@ public class App {
         roger.display();
 
         System.out.println("coba dulu");
+        System.out.println("satu lagi");
     }
 }
