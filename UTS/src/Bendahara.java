@@ -13,8 +13,4 @@ public class Bendahara extends Perangkat {
     void mencoba(){
         System.out.println("coba kuy");
     }
-    void lagi(){
-        
-        System.out.println("coba lagi");
-    }
 }
