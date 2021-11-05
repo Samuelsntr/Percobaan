@@ -8,6 +8,9 @@ public class App {
         // b. 1 instance ketua pengurus (isikan nama, noAnggota dan periode kepengurusan)
         Ketua orang2 = new Ketua("Garry", "02", "2019 / 2020");
         orang2.display();
+
+        System.out.println("test");
+        System.out.println("test");
         
         System.out.println("#################################");
         // c. 1 instance ketua panitia (isikan nama, noAnggota dan periode kepengurusan)
